@@ -1,36 +1,29 @@
-# 👋 Hi, I'm Kartikey
+# 🚀 Kartikey's Project Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kartikey.tech-blue)](https://kartikey.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-relaxkartikey-black)](https://github.com/relaxkartikey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-relaxkartikey-0077B5)](https://linkedin.com/in/relaxkartikey)
 
-## 🚀 Featured Projects
+> Full-stack developer crafting digital experiences and innovative solutions
+
+## 🌟 Projects
 
 ### Production Ready
-- 🎁 **[Wishify](https://wishify.kartikey.tech)** - A modern wishlist platform
-- 🎥 **[White Box Media](https://whiteboxmedia.co.in)** - Professional media services
-- 🧠 **[Cleverito](https://cleverito.com)** - Innovative solutions platform
-- 🔐 **[Agita Pass](https://agitapass.kartikey.tech)** - Secure password management
-- 🚀 **[Hackpakt](https://hackpakt.github.io)** - Developer collaboration platform
-- 🔧 **[LPG Smart Safety Device](#)** - IoT Hardware Project for smart gas safety
+- 🎥 [**`White Box Media`**](https://whiteboxmedia.co.in) `whiteboxmedia.co.in`
+- 🧠 [**`Cleverito`**](https://cleverito.com) `cleverito.com`
+- 🎁 [**`Wishify`**](https://wishify.kartikey.tech) `wishify.kartikey.tech`
+- 🔐 [**`Agita Pass`**](https://agitapass.kartikey.tech) `agitapass.kartikey.tech`
+- 🚀 [**`Hackpakt`**](https://hackpakt.github.io) `hackpakt.github.io`
+- 🔧 [**`LPG Smart Safety Device`**](#) `IoT Project`
 
 ### Under Development
-- 🎨 **[Verzove](https://verzove.com)** - Creative platform in development
-- 🏢 **[PJ-PBIC](https://pj-pbic.kartikey.tech)** - Business innovation center
-- 🍳 **[Dryno](https://d-ryno.com)** - Cooking under the hood
-- 💻 **[Kapt3](https://kapt3.netlify.app)** - Collaboration with Anag Aggarwal
+- 🎨 [**`Verzove`**](https://verzove.com) `verzove.com`
+- 🏢 [**`PJ-PBIC`**](https://pj-pbic.kartikey.tech) `pj-pbic.kartikey.tech`
+- 🍳 [**`Dryno`**](https://d-ryno.com) `d-ryno.com`
+- 💻 [**`Kapt3`**](https://kapt3.netlify.app) `kapt3.netlify.app`
 
+## 📬 Connect & Collaborate
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=relaxkartikey&show_icons=true&theme=radical)
-
-## 🤝 Let's Connect
-
-- 🌐 [Portfolio](https://kartikey.tech)
-- 💼 [LinkedIn](https://linkedin.com/in/relaxkartikey)
-- 📫 [Email](mailto:relaxkartikey@gmail.com)
-
----
-<p align="center">
-⭐️ From [relaxkartikey](https://github.com/relaxkartikey)
-</p> 
+- 🌐 [**`Portfolio`**](https://kartikey.tech) `kartikey.tech`
+- 💼 [**`LinkedIn`**](https://linkedin.com/in/relaxkartikey) `@relaxkartikey`
+- 📫 [**`Email`**](mailto:relaxkartikey@gmail.com) `relaxkartikey@gmail.com`
